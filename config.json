@@ -1,0 +1,18 @@
+{
+    "DATA": {
+        "DATABASE_USERNAME": "",
+        "DATABASE_PASSWORD": "",
+        "DATABASE_URL": ""
+    },
+    "LLM": {
+        "PLATFORM": "",
+        "MODELS": []
+    },
+    "REPORT": {
+        "TYPE": []
+    },
+    "CLOUD": {
+        "AWS_ACCESS_KEY_ID": "",
+        "AWS_SECRET_ACCESS_KEY": ""
+    }
+}
